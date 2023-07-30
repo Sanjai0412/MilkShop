@@ -19,8 +19,7 @@ There are Five classes used in this project,they are:
 
 ## FUNCTIONS USED :
 There are seven functions used in this project,they are:
-
-- QuanPrice - To calculate Price for milk quantity.
+- "QuanPrice" - To calculate Price for milk quantity.
 - "MilkTypePrice" - To set price for different type of milk.
 - "BrandPrice" - To set milk price for various brands.
 - "CreateDirectory" - To create folder by an given path(C:\\MilkPrice).
