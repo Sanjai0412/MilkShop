@@ -7,7 +7,7 @@ The Milk Price Calculator will focus on the following key features:
 - User registration - If User wants to login ,they must have an existing account.Otherwise they should sign in first.
 - Milk catalog with details and Time span - Each Milk type and Brand have individual price. 
 - Provide Extra Milk and Skip that day option - The user logged in before the ending date, they can able to skip or buy extra milk for that day. If the user logged in after the ending date, this options does'nt show.
-- Generate Bill to Every User - Generating bill from starting date to ending date. If user logged in before the ending date, the date which was logged in is considered as ending date (or) logged in after the ending date, bill will generate till ending date only. 
+- Generate Bill to Every User - Generating bill from starting date to ending date. If user logged in before the ending date, the date which was logged in is considered as ending date (or) logged in after the ending date, bill will generate till ending date only and added to list<>. 
 
 ## CLASSES USED :
 There are Five classes used in this project,they are:
